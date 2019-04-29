@@ -8,3 +8,5 @@ Contains 37 useful handpicked keyboard shortcuts. Tags are used to sort the shor
 
 ### Sources
 [IntelliJ IDEA documentation](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
+
+[jworks.io](https://www.jworks.io/essential-intellij-shortcuts/)
